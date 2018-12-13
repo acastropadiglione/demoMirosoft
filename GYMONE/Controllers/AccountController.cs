@@ -12,6 +12,7 @@ using WebMatrix.WebData;
 using GYMONE.Filters;
 using GYMONE.Repository;
 namespace GYMONE.Controllers
+
 {
 
 
